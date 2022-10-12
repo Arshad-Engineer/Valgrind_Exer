@@ -1,5 +1,6 @@
 # This is the Valigrind exercise Project
 
+- Switch to the 'valgrind_exercise' branch of https://github.com/Arshad-Engineer/Valgrind_Exer.git
 ## Instructions to run
 ```
 git clone https://github.com/Arshad-Engineer/Valgrind_Exer.git
