@@ -1,3 +1,0 @@
-cout<<'sdfksdbfk
-sdkfsdfdkjdsbkfbsd
-jsdjfksd'
